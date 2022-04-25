@@ -17,10 +17,10 @@ After taking care of the 9th grader data for Thomas High School, you can see a s
 
 ![this_is_an_image](top_5_schools.png)
 
-The percentages for Thomas High School have gone up! Now it's 93.18% passing math, 97.01% passing reading, and 90.63% overall passing. The image above is also an example of how this change in the data has impacted the story. This is an image of the top 5 performing schools, which Thomas High School wasn't on before. Since the analysis is on 15 different schools, all this data adds up. However, in some areas theres less of an impact. 
+The percentages for Thomas High School have gone up! Now it's 93.18% passing math, 97.01% passing reading, and 90.63% overall passing. The image above is also an example of how this change in the data has impacted the story. This is an image of the top 5 performing schools, which Thomas High School wasn't on before. Since the analysis is on 15 different schools, all this data adds up. However, in some areas there's less of an impact. 
 
 ![this_is_an_image](size_summary.png)
 
 ![this_is_an_image](charter_vs_district.png)
 
-Thomas High School is a medium sized charter school. So in the categories of size and type of school, it plays a role in the data on that front. However, this data hardly moved because there's so many grades between all the schools. 15 schools and 4 grades adds up to 60 grades in total. Which means we changed 0.017% of the overall data. 
+Thomas High School is a medium sized charter school. So in the categories of size and type of school, it plays a role in the data on that front. However, even this data hardly moved because there's so many grades between all the schools. 15 schools and 4 grades adds up to 60 grades in total. Which means we changed 0.017% of the overall data. Our updated code is useful for gaining an understanding of the performance of that particular school. Beyond that, the big picture of the story is the same. The larger the school, the worse they perform on both reading and math tests. Larger schools even spend more on their students, and that doesn't counter balance the perks of going to a smaller school. In addition, charger schools do significantly better than district schools.
